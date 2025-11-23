@@ -1,0 +1,34 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS / Misc
+.DS_Store
+*.tmp
+*.pidb
+*.booproj
+
+# Ignore Vuforia large package file (.tgz)
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+*.tgz
+
+# Unity auto-generated files
+ProjectSettings/PackageManagerSettings.asset
+Packages/packages-lock.json
+
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+*.tgz
+
